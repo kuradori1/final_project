@@ -1,3 +1,5 @@
 nama      : uchiha itachi
 umur      : 25
 pekerjaan : intelijen
+adik      : uchiha sasuke
+jurus     : tsukoyomi
